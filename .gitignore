@@ -8,6 +8,9 @@
 *.so
 *.pyc
 *.pyo
+build/
+dist/
+*.egg*
 
 # Packages #
 ############
