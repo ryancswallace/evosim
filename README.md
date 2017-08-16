@@ -2,7 +2,7 @@
 evosim is a web-based interactive evolution simulator with dynamic visualizations.
 
 ## Background
-Variation. Differential survival and heritable reproduction. Mutation.
+Differential survival and heritable reproduction with mutation.
 
 ## Install
 Not packaged yet.
