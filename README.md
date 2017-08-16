@@ -14,9 +14,7 @@ TODO
 TODO
 
 ## License
-MIT License
-Copyright (c) 2017 Ryan Wallace
+MIT License. Copyright (c) 2017 Ryan Wallace.
 
 ## Authors
-Ryan Wallace
-ryanwallace@college.harvard.edu
+Ryan Wallace. ryanwallace@college.harvard.edu.
