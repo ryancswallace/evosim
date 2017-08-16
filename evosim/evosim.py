@@ -4,6 +4,8 @@ Central module of evosim package.
 Documentation auto-generated with pdoc. Use: pdoc evosim/evosim.py > docs/docs.txt
 """
 
+# TODO: add setup.py.
+
 import numpy as np
 import pandas as pd
 
