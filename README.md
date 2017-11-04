@@ -1,17 +1,10 @@
 # evosim
-evosim is a web-based interactive evolution simulator with dynamic visualizations.
+Evolving agents on graphs forming opinions.
+
+Documentation auto-generated with pdoc. Use: pdoc evosim/evosim.py > docs/docs.txt
 
 ## Background
-Differential survival and heritable reproduction with mutation.
-
-## Install
-Not packaged yet.
-
-## Example Usage
-TODO
-
-## Running Tests
-TODO
+Evolving agents playing games on graphs to spread information and form opinions.
 
 ## License
 MIT License. Copyright (c) 2017 Ryan Wallace.
